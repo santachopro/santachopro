@@ -1,10 +1,10 @@
 ### Hi world  👋
 ## Mi perfil:
-Mi nombre es Santiago Chaverra Gaviria, soy tecnico de programación de software en formación. 
+Mi nombre es Santiago Chaverra Gaviria, soy técnico de programación de software en formación. 
 
 manejo muy bien el trabajo en equipo, siempre estoy dispuesto aprender cosas nuevas, NO soy conformista, tengo una alto sentido de la responsabilidad y la puntualidad, siempre trato de hacer las cosas mejor y mantener una postura positiva ante los problemas que se presenten. 
 
-# tengo experencia en:
+# tengo experiencia en:
 
 * HTML
 * CSS

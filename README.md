@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi world  👋
+## Mi perfil:
+Mi nombre es Santiago Chaverra Gaviria, soy tecnico de programación de software en formación. 
+
+manejo muy bien el trabajo en equipo, siempre estoy dispuesto aprender cosas nuevas, NO soy conformista,tengo una alto sentido de la responsabilidad y la puntualidad, siempre trato de hacer las cosas mejor y mantener una postura positiva ante los problemas que se presenten. 
+
+# tengo experencia en:
+
+* HTML
+* CSS
+* PHP
+* SQL
+
+# Información adicional:
+* Numero de contacto: 3116109897
+* Correo electrónico: santacho2014@gmail.com
+
 
 <!--
 **santachopro/santachopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

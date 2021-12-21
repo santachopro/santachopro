@@ -10,6 +10,7 @@ manejo muy bien el trabajo en equipo, siempre estoy dispuesto aprender cosas nue
 * CSS
 * PHP
 * SQL
+* javaScrip
 
 # Información adicional:
 * Numero de contacto: 3116109897
